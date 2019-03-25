@@ -2,7 +2,7 @@
 Source codes of IEEE ÇOMÜ Website
 
 We've coded with Php, Html, Css and Js.
-We used the Mysqli datebase.
+We used the Mysqli database.
 
 Version 1.0
 
